@@ -1,2 +1,11 @@
 - 프로젝트 세팅
 .gitignore : github 업로드 제외파일 등록
+
+ColorZilla : 크롬 익스텐션
+컬러 구하는거
+
+Page Ruler Redux 
+페이지 사이즈를 잴 수 있도록 도와주는 도구
+
+visual source code에는 Html emmet이 설치되어있다.
+html -> html:5 선택 시 자동으로 기본 코드 생성
