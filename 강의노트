@@ -6,6 +6,22 @@ ColorZilla : 크롬 익스텐션
 
 Page Ruler Redux 
 페이지 사이즈를 잴 수 있도록 도와주는 도구
+⚡ In order to use the extension on local `chrome` pages, 
+you will need to enable the "allow access to file URLs" option in your extensions tab.
+
+-> 해당 익스텐션 우클릭 - 확장 프로그램 관리 - 파일 URL에 대한 액세스 허용
 
 visual source code에는 Html emmet이 설치되어있다.
 html -> html:5 선택 시 자동으로 기본 코드 생성
+
+- 프로젝트 시작
+
+index.html : 처음 열리는 페이지
+
+<div class="status-bar"> -> 부모
+    <div class="status-bar__column"></div> -> __child
+    <div class="status-bar__column"></div>
+</div>
+
+
+element 간에 공간을 줄 때에도 span box를 하나 만들어서 안에 content를 넣는다.
